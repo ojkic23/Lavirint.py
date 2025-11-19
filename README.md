@@ -8,4 +8,4 @@ Welcome to my GitHub repository dedicated to GUI applications! Here you will fin
 ### [Lavirint]
 - 📌 A maze game where the player navigates through a series of obstacles to reach the exit. It features an interactive GUI, different difficulty levels, and dynamic maze generation.
 - 🔧 Technologies used: Tkinter / Pillow.
-- 📥 [Link to repository] - (https://github.com/ojkic23/Lavirint.py/blob/19a7272a2832490198251843fcdeb897f66cd0e1/Lavirint.py)
+- 📥 [Link to repository] - (https://github.com/ojkic23/Lavirint.py/blob/b151fec5b2dcef7af0d47d0c7e52bed357fa3d1e/Lavirint.py)
