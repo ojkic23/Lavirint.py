@@ -1,10 +1,3 @@
-#Igraš kao avanturista koji mora da pronađe izlaz iz složenog labirinta dok izbegava razne prepreke i prikuplja predmete.
-
-#U ovom primeru koristićemo tkinter za GUI i Pillow za rad sa slikama. Igra je detaljna i kompleksna 
-#i koristiće osnovne funkcionalnosti tkinter-a kao što su Canvas, Label, Button, itd.
-
-# Pillow biblioteka je za rad sa slikama
-
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
@@ -130,4 +123,5 @@ if __name__ == "__main__":
 #create_maze: Randomizujemo zidove i predmete. Zidovi i predmeti ne mogu biti na početnoj ili krajnjoj poziciji.
 #draw_maze: Crtamo zidove, predmete, izlaz i igrača na Canvas.
 #move_player: Pomera igrača na osnovu pritisnutih tastera i proverava sudare sa zidovima i predmete. Ako igrač dođe do izlaza, prikazuje pobedničku poruku.
+
 #Pokretanje igre: main funkcija pokreće GUI i igru.
